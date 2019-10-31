@@ -11,14 +11,12 @@ Pod::Spec.new do |s|
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/author/RNReiossdkrnSdk.git", :tag => "master" }
+  s.source       = { :git => "https://github.com/intrsivakumar/RNReiossdkrnSdk.git", :tag => "master" }
   s.source_files  = "RNReiossdkrnSdk/**/*.{h,m}"
   s.requires_arc = true
 
 
   s.dependency "React"
-  #s.dependency "others"
+  s.dependency "REIOSSDK_54b865b8_5123_461a_accf_d12ed01ce383"
 
 end
-
-  

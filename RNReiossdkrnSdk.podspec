@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
-  s.name         = "RNReiossdkrnSdk"
-  s.version      = "1.0.1"
+  s.name         = "react-native-reiossdkrn-sdk"
+  s.version      = "1.0.2"
   s.summary      = "RNReiossdkrnSdk"
   s.description  = <<-DESC
                   RNReiossdkrnSdk

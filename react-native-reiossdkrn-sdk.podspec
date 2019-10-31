@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "react-native-reiossdkrn-sdk"
-  s.version      = "1.0.5"
+  s.version      = "1.0.6"
   s.summary      = "RNReiossdkrnSdk"
   s.description  = <<-DESC
                   RNReiossdkrnSdk
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
   s.platform     = :ios, "10.0"
-  s.source       = { :git => "https://github.com/intrsivakumar/RNReiossdkrnSdk.git", :tag => "master" }
+  s.source       = { :git => "https://github.com/intrsivakumar/rnmysdk.git", :tag => "master" }
   s.source_files  = "RNReiossdkrnSdk/**/*.{h,m}"
   s.requires_arc = true
 

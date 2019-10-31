@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNReiossdkrnSdk
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://www.npmjs.com/package/react-native-reiossdkrn-sdk/v/1.0.0"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }

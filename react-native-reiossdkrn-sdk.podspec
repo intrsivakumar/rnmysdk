@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "react-native-reiossdkrn-sdk"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
   s.summary      = "RNReiossdkrnSdk"
   s.description  = <<-DESC
                   RNReiossdkrnSdk
@@ -17,6 +17,6 @@ Pod::Spec.new do |s|
 
 
   s.dependency "React"
-  s.dependency "REIOSSDK_54b865b8_5123_461a_accf_d12ed01ce383"
+  s.dependency "REIOSSDK_8029a331_0cb7_4e02_8bbf_125f9472c3ea"
 
 end
